@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img height="20px" src="https://gpvc.arturio.dev/NiharikaPd0101">
 </p>
 
-<h2 align="center">𝑹𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 !</h2>
+<!-- <h2 align="center">𝑹𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 !</h2>
 <p align="center">
 <a href ="https://twitter.com/Akashku45066941"><img alt="Twitter" src="https://img.shields.io/badge/Akashku45066941-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <a href="mailto:akash250799@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
+</p> -->
 <h2 align="center">𝑱𝒐𝒌𝒆 𝑶𝒇 𝑻𝒉𝒆 𝑫𝒂𝒚</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api/?username=akashrajput25&theme=vue-dark" alt="Jokes Card" />
